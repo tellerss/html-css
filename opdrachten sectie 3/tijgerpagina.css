@@ -1,0 +1,15 @@
+h1 {
+  font: size 50px;
+  font-family: "Courier New", Courier, monospace;
+  color: green;
+}
+a:link {
+  color: purple;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: green;
+  font-size: 80px;
+}

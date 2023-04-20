@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 19px;
+}
+h6 {
+  font-size: 30px;
+  color: blue;
+}
+header {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+}

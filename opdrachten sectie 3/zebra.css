@@ -1,0 +1,20 @@
+aside {
+  border: 5px #f7f7f7;
+}
+h1 {
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+}
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid blue;
+  border-bottom: 5px solid blue;
+}
+#author {
+  font-size: 20px;
+  font-style: italic;
+}
